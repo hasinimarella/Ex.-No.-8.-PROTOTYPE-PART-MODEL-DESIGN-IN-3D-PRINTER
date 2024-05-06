@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![OUTPUT](<empd ex 03.png>)
 
-### Name:
-### Register Number:
+### Name:MARELLA HASINI
+### Register Number:212223240083
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
