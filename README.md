@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 21-03-24
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -53,3 +53,5 @@
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
+
+
